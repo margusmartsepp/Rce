@@ -1,0 +1,20 @@
+﻿{
+  "authors": [ "Margus Martsepp" ],
+  "commands": {
+    "ef": "EntityFramework.Commands"
+  },
+  "dependencies": {
+    "EntityFramework.Commands": "7.0.0-rc1-final",
+    "EntityFramework.Core": "7.0.0-rc1-final",
+    "EntityFramework.MicrosoftSqlServer": "7.0.0-rc1-final"
+  },
+  "description": "Rce.DomainModel Class Library",
+  "frameworks": {
+    "net451": { },
+    "dnxcore50": { }
+  },
+  "licenseUrl": "",
+  "projectUrl": "",
+  "tags": [ "" ],
+  "version": "1.0.0-*"
+}
